@@ -33,8 +33,7 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nventatech&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf&text_color=c9d1d9" height="165" alt="stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nventatech&layout=compact&hide_border=true&bg_color=0d1117&title_color=2dd4bf&text_color=c9d1d9&langs_count=8" height="165" alt="top languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nventatech&theme=nord_dark" height="180" alt="stats"/>
 
 <br/><br/>
 
